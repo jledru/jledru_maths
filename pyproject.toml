@@ -1,7 +1,9 @@
 [tool.poetry]
 name = "jledru_maths"
-version = "0.1.0"
-description = ""
+version = "0.1.1"
+description = "Testing package deployment"
+readme = "README.rst"
+repository = "https://github.com/jledru/jledru_maths/releases/tag/v0.1.1"
 authors = ["Julien Ledru <julien.ledru@hei.fr>"]
 
 [tool.poetry.dependencies]
